@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sme2o481x-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sme2o481x-java-quarkus-gitops
